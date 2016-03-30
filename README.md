@@ -110,7 +110,8 @@ For example, for the facebook icon, you would do this:
 ##Copyright and Licensing
 
 Code and documentation © Paolo Tripodi, 2014. 
-Code released under <a href="https://github.com/paolotripodi/Landy-v1.0/blob/master/LICENSE.md" alt="MIT Lincense">MIT</a>
+Reworked Code and documentation © Adam Michal, 2016.
+Code released under <a href="https://github.com/IV-Elements-TV/4elementstv.vesperton.com/blob/master/LICENSE.md" alt="MIT Lincense">MIT</a>
 
 <hr/>
 
