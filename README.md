@@ -78,12 +78,15 @@ logo@2x.png
 **animatescroll.js** - Provides smooth scrolling, to smooth-scroll to an element inside the page just use
 
 ```
-<a onclick="$('[id-or-class-of-element]').animatescroll();">Go to Element</a>
-```
+<a onclick="$('[id-or-class-of-element]').animatescroll();">Go to Element</a>				
+```		
 
-**scripts.js** - This ﬁle is the main scripts ﬁle that controls all the pretty features of the template such as the the CSS3 animations. It also controls the mobile menu toggle and slider initializations.
 
-##4. Adding your screens
+						
+								
+							
+
+##4. Adding your screens	
 
 Adding your app screenshots to the template is as easy as so: just replace the images in the img/screenshots folder with yours, keep the same ﬁle name and youʼre done! Images will appear in all the templateʼs carousels.
 
@@ -93,7 +96,7 @@ This is a relatively simple process but you must be sure to include a few import
 
 1. Open icons-reference.html inside the icon-font folder
 2. You will see a list of available icons, followed by their character mapping
-
+	
 Use this code:
 
 ```
