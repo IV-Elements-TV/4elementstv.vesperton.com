@@ -1,0 +1,27 @@
+{
+  "name": "IV-Elements-Tv-Channel",
+  "homepage": "https://github.com/IV-Elements-TV/4elementstv.vesperton.com",
+  "authors": [
+    "Adam Michal <arcturianseed@gmail.com>"
+  ],
+  "description": "Responsive OnePage Site for www.IvElementsTv.vesperton.com",
+  "main": "index.html",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "vesperton",
+    "IV",
+    "Elements",
+    "Tv",
+    "Template",
+    "Responsive",
+    "App",
+    "Adam",
+    "Michal",
+    "Prague"
+  ],
+  "license": "Yes"
+}
