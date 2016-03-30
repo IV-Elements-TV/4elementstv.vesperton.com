@@ -23,5 +23,9 @@
     "Michal",
     "Prague"
   ],
-  "license": "Yes"
+  "license": "Yes",
+  "dependencies": {
+    "normalize-css": "^4.0.0",
+    "material-design-lite": "^1.1.3"
+  }
 }
